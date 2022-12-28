@@ -1,4 +1,4 @@
-package creational.adapter;
+package structural.adapter;
 
 import java.util.List;
 

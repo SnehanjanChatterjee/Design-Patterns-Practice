@@ -1,4 +1,4 @@
-package creational.adapter;
+package structural.adapter;
 
 public interface Student {
 	public String getName();

@@ -1,4 +1,4 @@
-package creational.adapter;
+package structural.adapter;
 
 public class CollegeStudent implements Student {
 	private String name;

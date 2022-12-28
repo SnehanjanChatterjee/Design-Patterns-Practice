@@ -1,4 +1,4 @@
-package creational.adapter;
+package structural.adapter;
 
 public class SchoolStudentAdapter implements Student {
 	private SchoolStudent schoolStudent;
