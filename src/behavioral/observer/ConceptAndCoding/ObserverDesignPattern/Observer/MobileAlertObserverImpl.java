@@ -18,6 +18,6 @@ public class MobileAlertObserverImpl implements NotificationAlertObserver {
 	}
 
 	public void sendMsgOnMobile(String userName, String msg) {
-		System.out.println("msg sent to : " + userName);
+		System.out.println("msg sent to : " + userName + " current stock: " + this.stockObservable.getStockCount());
 	}
 }
