@@ -1,8 +1,9 @@
-package creational.factoryMethod.Courses;
+package creational.factoryMethod.CourseDemo.Courses;
 
 import java.util.ArrayList;
 import java.util.List;
-import creational.factoryMethod.Modules.Module;
+
+import creational.factoryMethod.CourseDemo.Modules.Module;
 
 public abstract class CourseFactoryImplementor {
 	public List<Module> modules = new ArrayList<Module>();

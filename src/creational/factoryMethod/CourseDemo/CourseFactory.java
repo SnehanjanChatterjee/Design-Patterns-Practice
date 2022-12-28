@@ -1,8 +1,8 @@
-package creational.factoryMethod;
+package creational.factoryMethod.CourseDemo;
 
-import creational.factoryMethod.Courses.CourseFactoryImplementor;
-import creational.factoryMethod.Courses.HLD;
-import creational.factoryMethod.Courses.LLD;
+import creational.factoryMethod.CourseDemo.Courses.CourseFactoryImplementor;
+import creational.factoryMethod.CourseDemo.Courses.HLD;
+import creational.factoryMethod.CourseDemo.Courses.LLD;
 
 public class CourseFactory {
 

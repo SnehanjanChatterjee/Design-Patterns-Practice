@@ -1,6 +1,6 @@
-package creational.factoryMethod;
+package creational.factoryMethod.CourseDemo;
 
-import creational.factoryMethod.Courses.CourseFactoryImplementor;
+import creational.factoryMethod.CourseDemo.Courses.CourseFactoryImplementor;
 
 // https://www.youtube.com/watch?v=s3Wr5_tsODs&list=PLTCrU9sGybupCpY20eked6blbHI4zZ55k&index=12
 public class ClientClass {
